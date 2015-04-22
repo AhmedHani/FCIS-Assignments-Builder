@@ -1,0 +1,16 @@
+c:\users\eng.ahmed hani\documents\visual studio 2012\Projects\FCIS Assignments Builder\FCIS Assignments Builder\bin\Debug\FCIS Assignments Builder.exe
+c:\users\eng.ahmed hani\documents\visual studio 2012\Projects\FCIS Assignments Builder\FCIS Assignments Builder\bin\Debug\FCIS Assignments Builder.exe.config
+c:\users\eng.ahmed hani\documents\visual studio 2012\Projects\FCIS Assignments Builder\FCIS Assignments Builder\bin\Debug\MySql.Data.dll
+c:\users\eng.ahmed hani\documents\visual studio 2012\Projects\FCIS Assignments Builder\FCIS Assignments Builder\obj\Debug\MainWindow.baml
+c:\users\eng.ahmed hani\documents\visual studio 2012\Projects\FCIS Assignments Builder\FCIS Assignments Builder\obj\Debug\TAsLogin.baml
+c:\users\eng.ahmed hani\documents\visual studio 2012\Projects\FCIS Assignments Builder\FCIS Assignments Builder\obj\Debug\MainWindow.g.cs
+c:\users\eng.ahmed hani\documents\visual studio 2012\Projects\FCIS Assignments Builder\FCIS Assignments Builder\obj\Debug\TAsLogin.g.cs
+c:\users\eng.ahmed hani\documents\visual studio 2012\Projects\FCIS Assignments Builder\FCIS Assignments Builder\obj\Debug\App.g.cs
+c:\users\eng.ahmed hani\documents\visual studio 2012\Projects\FCIS Assignments Builder\FCIS Assignments Builder\obj\Debug\FCIS Assignments Builder_MarkupCompile.cache
+c:\users\eng.ahmed hani\documents\visual studio 2012\Projects\FCIS Assignments Builder\FCIS Assignments Builder\obj\Debug\FCIS Assignments Builder.g.resources
+c:\users\eng.ahmed hani\documents\visual studio 2012\Projects\FCIS Assignments Builder\FCIS Assignments Builder\obj\Debug\FCIS_Assignments_Builder.Properties.Resources.resources
+c:\users\eng.ahmed hani\documents\visual studio 2012\Projects\FCIS Assignments Builder\FCIS Assignments Builder\obj\Debug\FCIS Assignments Builder.csproj.GenerateResource.Cache
+c:\users\eng.ahmed hani\documents\visual studio 2012\Projects\FCIS Assignments Builder\FCIS Assignments Builder\obj\Debug\FCIS Assignments Builder.exe
+c:\users\eng.ahmed hani\documents\visual studio 2012\Projects\FCIS Assignments Builder\FCIS Assignments Builder\obj\Debug\FCIS Assignments Builder.pdb
+c:\users\eng.ahmed hani\documents\visual studio 2012\Projects\FCIS Assignments Builder\FCIS Assignments Builder\obj\Debug\FCIS Assignments Builder.csprojResolveAssemblyReference.cache
+c:\users\eng.ahmed hani\documents\visual studio 2012\Projects\FCIS Assignments Builder\FCIS Assignments Builder\bin\Debug\FCIS Assignments Builder.pdb

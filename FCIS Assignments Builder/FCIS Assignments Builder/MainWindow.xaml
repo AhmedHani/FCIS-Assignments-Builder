@@ -1,0 +1,15 @@
+﻿<Window x:Class="FCIS_Assignments_Builder.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Main" Height="195.522" Width="280">
+    <Grid>
+        <Button x:Name="okBtn" Content="OK" HorizontalAlignment="Left" Margin="99,111,0,0" VerticalAlignment="Top" Width="75" FontSize="20" FontWeight="Bold" Click="okBtn_Click"/>
+        <Label Content="Course" HorizontalAlignment="Left" Margin="10,53,0,0" VerticalAlignment="Top" FontSize="15" FontWeight="Bold"/>
+        <ComboBox Name="coursesCombobox" IsEditable="True" Text="--Select Course--" HorizontalAlignment="Left" Margin="84,61,0,0" VerticalAlignment="Top" Width="154">
+            <ComboBoxItem Content="Structure Programming"/>
+            <ComboBoxItem Content="OOP"/>
+        </ComboBox>
+        <Image Source="C:\Users\ENG.AHMED HANI\Documents\Visual Studio 2012\Projects\FCIS Assignments Builder\FCIS Assignments Builder\bin\Debug\AS_FCIS.png" HorizontalAlignment="Left" Height="56" Margin="84,0,0,0" VerticalAlignment="Top" Width="90"/>
+        <CheckBox Content="CheckBox" HorizontalAlignment="Left" Margin="226,-24,0,0" VerticalAlignment="Top"/>
+    </Grid>
+</Window>
